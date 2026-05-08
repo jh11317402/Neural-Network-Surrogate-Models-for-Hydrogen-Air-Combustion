@@ -1,2 +1,2 @@
 # Neural-Network-Surrogate-Models-for-Hydrogen-Air-Combustion
-Codebase for the four base models developed for the study "Machine Learning Surrogate Modelling of Premixed Hydrogen-Air Combustion: Predicting Heat Release Rates from Local Flame Properties"
+Codebase for the four base models and ablation test developed for the study "Machine Learning Surrogate Modelling of Premixed Hydrogen-Air Combustion: Predicting Heat Release Rates from Local Flame Properties". Iterative experimentation with the code throughout the development period means that not all results referred to in the report are present, although these examples provide an understanding of how the outlined methodology was implemented.
